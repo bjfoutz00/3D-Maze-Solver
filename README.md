@@ -23,6 +23,8 @@ For example, a maze with _l, w,_ and _h_ of 2 would take the following input:
 0 0
 
 
+A sample maze is given in the input file.
+
 
 The program will then solve the maze. It will first parse the input and output the generated maze, using a '\_' in place of a 0 and a 'X' in place of a 1.
 Then it will output the solved maze, using letters to represent the correct path. If there are multiple paths, it will show the first path solved.
