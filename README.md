@@ -15,12 +15,10 @@ For example, a maze with _l, w,_ and _h_ of 2 would take the following input:
 
 
 0 0
-
 1 1
 
 
 1 0
-
 0 0
 
 
